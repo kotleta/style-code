@@ -1,3 +1,5 @@
+https://gist.github.com/kotleta/cf5827f75e34eedb81c2866821a3730c
+
 ## Основное
 Ширина отступа 1 знак табуляции
 ```perl
