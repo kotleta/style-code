@@ -1,0 +1,11 @@
+# http://perltidy.sourceforge.net/stylekey.html
+-pbp     # perl-best-practices
+-nst     # use the flag if use -b and -pbp
+-w       # show all warnings
+-l=120   # maximum line width is 120 columns
+-iscl    # ignore the length of side comments when setting line breaks
+-nsbl    # sub brace on the right
+-bar     # keep the brace on the right even for multiple-line test expressions
+-ce      # "cuddled else" style
+-pscf=-c # check-syntax perl -c
+-sot     # "stack" opening tokens when possible to avoid lines with isolated opening tokens
